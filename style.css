@@ -1,0 +1,16 @@
+body {
+    font-family: 'Pretendard', sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    text-align: center;
+    margin-top: 100px;
+  }
+  button {
+    background: #238636;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
