@@ -1,0 +1,17 @@
+title: 지성웅의 개발 블로그
+description: C++ / DirectX / Game Engine
+theme: minima
+url: "https://eeeooo06.github.io"
+baseurl: "/My-Website"
+header_pages:
+  - index.md
+  - about.md
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+author:
+  name: “Woong”
+  github: "eeeooo06"
